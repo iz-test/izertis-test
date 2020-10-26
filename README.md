@@ -1,4 +1,4 @@
-##izertis-test
+## izertis-test
 
 1. Desplegar el proyecto ejecutando `docker-compose up -d` en la carpeta `docker`.
 
